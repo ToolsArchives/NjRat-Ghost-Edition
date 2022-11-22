@@ -1,7 +1,13 @@
 # NjRat Ghost Edition (Beta Release)
 
 This is an early release, source code will be released in the coming days.  
-
+  
+Bugfixes:  
+Increase limit to port values in builder.  
+  
+Update:  
+Change chat plugin photo.   
+  
 https://user-images.githubusercontent.com/113988354/203374981-30d0b0ec-9f58-4682-ac78-5cd0877ef8a9.mp4
 
 ## Builder  
