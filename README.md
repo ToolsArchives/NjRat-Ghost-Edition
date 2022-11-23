@@ -1,6 +1,6 @@
 # NjRat Ghost Edition (Beta Release)
 
-This is an early release, source code will be released in the coming days.  
+## Source code Released: https://github.com/De-eloper/SRC-NjRat-Ghost-Edition
   
 Bugfixes:  
 Increase limit to port values in builder.  
