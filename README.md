@@ -1,6 +1,8 @@
 # NjRat Ghost Edition (Beta Release)
 
 ## Source code Released: https://github.com/De-eloper/SRC-NjRat-Ghost-Edition
+
+  ## Current issues: Anti ANY.RUN does not function in the stub for some reason. But in a normal form application it works fine.
   
 Bugfixes:  
 Increase limit to port values in builder.  
