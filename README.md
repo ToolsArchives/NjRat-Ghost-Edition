@@ -1,5 +1,10 @@
 # NjRat Ghost Edition (Beta Release)
-
+<b>All of the content here is for educational, research and reversing purposes only.  
+I am not responsible for any damages or illegal usage of any programs posted.  
+There is no guarantee that any program here is infected or not.  
+Please use a virtual machine, sandbox or decompile before you use it.  
+  
+  Good luck.</b> 
 ## Source code Released: https://github.com/De-eloper/SRC-NjRat-Ghost-Edition
 
   ## Current issues: Anti ANY.RUN does not function in the stub for some reason. But in a normal form application it works fine.
